@@ -1,0 +1,39 @@
+[{"users": [
+    {
+        "name": "участник 1",
+         "complaens": true,
+         "days": 80,
+         "garant": 12,
+         "conditions": "70%",
+         "price": 20000,
+         "doing": ""
+    },
+    {
+        "name": "участник 2",
+         "complaens": true,
+         "days": 80,
+         "garant": 12,
+         "conditions": "70%",
+         "price": 20000,
+         "doing": ""
+    },
+    {
+        "name": "участник 3",
+         "complaens": true,
+         "days": 80,
+         "garant": 12,
+         "conditions": "70%",
+         "price": 20000,
+         "doing": ""
+    },
+    {
+        "name": "участник 4",
+         "complaens": true,
+         "days": 80,
+         "garant": 12,
+         "conditions": "70%",
+         "price": 20000,
+         "doing": ""
+    }
+]}
+]
